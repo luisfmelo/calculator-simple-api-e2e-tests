@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="0" failures="0" time="0.000000" name="github.com/luisfmelo/calculator-api">
+		<properties>
+			<property name="go.version" value="go1.13 darwin/amd64"></property>
+		</properties>
+	</testsuite>
+	<testsuite tests="1" failures="0" time="0.000000" name="github.com/luisfmelo/calculator-api/handlers">
+		<properties>
+			<property name="go.version" value="go1.13 darwin/amd64"></property>
+		</properties>
+		<testcase classname="github.com/luisfmelo/calculator-api/handlers" name="TestCalculatorHandler" time="0.000000"></testcase>
+	</testsuite>
+	<testsuite tests="2" failures="0" time="0.000000" name="github.com/luisfmelo/calculator-api/utils">
+		<properties>
+			<property name="go.version" value="go1.13 darwin/amd64"></property>
+		</properties>
+		<testcase classname="github.com/luisfmelo/calculator-api/utils" name="TestSum" time="0.000000"></testcase>
+		<testcase classname="github.com/luisfmelo/calculator-api/utils" name="TestSubtract" time="0.000000"></testcase>
+	</testsuite>
+</testsuites>
