@@ -1,4 +1,4 @@
-# Simple Calculator API (e2e tests POC)
+# Simple Calculator API (unit & e2e test coverage POC)
 
 This is a project intended to make unit and e2e tests to an API, get the coverage and merge them.
 
