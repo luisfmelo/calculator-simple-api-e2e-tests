@@ -28,5 +28,7 @@ On the first window, terminate with: **CTRL + C**
 ### Display coverage
 
 `go tool cover -func=reports/unit.out`
+
 `go tool cover -func=reports/e2e.out`
+
 `go tool cover -func=reports/coverage.out`
